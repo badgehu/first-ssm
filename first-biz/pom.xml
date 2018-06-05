@@ -10,7 +10,6 @@
   <artifactId>first-biz</artifactId>
   <name>biz</name>
     <dependencies>
-  
      		<!-- mybatis -->
 			<dependency>
 				<groupId>org.mybatis</groupId>
@@ -88,4 +87,5 @@
 				<artifactId>spring-orm</artifactId>
 			</dependency>
   </dependencies>
+  
 </project>  
